@@ -95,8 +95,8 @@ dict2.values.sorted().forEach {
 
 
 // 3. Set
-let nums2: Set<Int> = [1, 2, 3, 4]
+let numsSet2: Set<Int> = [1, 2, 3, 4]
 
-nums2.forEach {
+numsSet2.forEach {
     print($0)               // 2 3 1 4
 }
